@@ -750,8 +750,8 @@
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
-			(size 3.2 3.2)
-			(drill 3.2)
+			(size 2.1 2.1)
+			(drill 2.1)
 			(layers "*.Cu" "*.Mask")
 			(uuid "f5d88a7e-495a-4b04-b7f3-3b21619ff285")
 		)
@@ -856,8 +856,8 @@
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
-			(size 3.2 3.2)
-			(drill 3.2)
+			(size 2.1 2.1)
+			(drill 2.1)
 			(layers "*.Cu" "*.Mask")
 			(uuid "b96e6be0-6f05-4940-ad7b-4fe1f2d8731f")
 		)
@@ -2508,18 +2508,85 @@
 		)
 		(embedded_fonts no)
 	)
-	(gr_poly
-		(pts
-			(xy 143.5 54) (xy 118 54) (xy 108.5 64) (xy 103.5 74) (xy 103 114) (xy 108 123.5) (xy 118 134) (xy 143 134)
-			(xy 153 124) (xy 158 114) (xy 158 73.5) (xy 153.5 64)
-		)
+	(gr_line
+		(start 106.5 72)
+		(end 126.5 52)
 		(stroke
-			(width 0.5)
-			(type solid)
+			(width 0.2)
+			(type default)
 		)
-		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "7a9c5998-a803-4da5-99c6-526ac2c52eb3")
+		(uuid "39202b81-3958-4d26-975e-5a7f24014716")
+	)
+	(gr_line
+		(start 106.5 119)
+		(end 106.5 72)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3f46f94b-4546-4fdf-bd3c-7ca8e1381d3e")
+	)
+	(gr_line
+		(start 106.5 119)
+		(end 126.5 139)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2dfe2f88-6fa1-41a5-9f87-82cd75b15081")
+	)
+	(gr_line
+		(start 126.5 52)
+		(end 134.5 52)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8a6bee88-c285-49e8-a5db-3a4ef9c1e6d1")
+	)
+	(gr_line
+		(start 126.5 139)
+		(end 134.5 139)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "236e205c-a1eb-4166-8b1b-9f57b642f9f4")
+	)
+	(gr_line
+		(start 134.5 139)
+		(end 154.5 119)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "87b5d550-80e9-44b7-9c26-f3bdbecbfef6")
+	)
+	(gr_line
+		(start 154.5 72)
+		(end 134.5 52)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a81bf302-cf55-492f-90ff-c1f64d29082d")
+	)
+	(gr_line
+		(start 154.5 119)
+		(end 154.5 72)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f23800a6-0b35-42fc-b213-12d4aca142a4")
 	)
 	(segment
 		(start 126.54 74.04)
