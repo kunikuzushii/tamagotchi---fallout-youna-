@@ -76,6 +76,60 @@ ______
 | PLA 3D Printed Case | 1 | pcs | - | - | - | - |
 | Total | 17 | - | - | 22.69 | - | 34.31 | - |
 
+____
+# BUILD & ASSEMBLY
+___
+# Required Tools
+___
+1) Solder
+2) Sldering iron
+3) Tweezers
+4) 3D Printer
+5) Screwdriver for M3 5mm & M3 10mm Screws
+6) Electronic device to connect to tamagotchi through USB port
+
+# Assembly Directions
+____
+1) Solder the Seeed Studio XIAO ESP32-C3, OLED display header connections, joystick module header connections, tact switches, battery connector, and all remaining through-hole and surface-mount components onto the PCB according to the schematic and PCB layout.
+2) Inspect all solder joints for bridges, cold joints, or incomplete connections, then verify continuity on the power and ground nets using a multimeter.
+3) Press-fit the custom button caps onto the tact switch actuators, ensuring each cap moves freely and returns to its neutral position without binding against the case.
+4) Mount the joystick module to the PCB using 2× M2 × 5 mm screws, M2 standoffs, and M2 hex nuts, making sure the joystick remains centered and perpendicular to the PCB.
+5) Route the battery leads through the designated cable path and place the lithium-polymer battery into the battery compartment located beneath the main PCB cavity in the bottom case.
+6) Solder or connect the battery leads to the PCB battery connector, verifying correct polarity before powering the device.
+7) Align the completed PCB assembly with the mounting posts inside the bottom case and carefully lower it into position, ensuring no wires become pinched between the PCB and enclosure.
+8) Secure the PCB to the bottom case using 3× M3 mounting screws, tightening them evenly to avoid stressing the board.
+9) Verify that the joystick stem and button caps properly align with their corresponding openings in the enclosure and move without obstruction.
+10) Position the top case onto the bottom case, making sure all internal components remain seated correctly and all case edges are fully aligned.
+11) Fasten the enclosure halves together using the specified M1.6 screws, tightening each screw gradually in an alternating pattern to ensure even clamping.
+12) Install the required software libraries and board packages in the Arduino IDE, including the ESP32 board support package and any display or input libraries used by the firmware.
+13) Connect the XIAO ESP32-C3 to a computer using a USB-C cable and select the correct board and COM port within the Arduino IDE.
+14) Compile the firmware and resolve any compilation errors before proceeding with upload.
+15) Upload the firmware to the ESP32-C3 and confirm that the upload process completes successfully.
+16) Disconnect and reconnect power to verify that the device boots correctly without requiring a USB connection.
+17) Test the OLED display by confirming that graphics, menus, and text render correctly with no missing pixels or display artifacts.
+18) Test all button inputs and joystick directions, verifying that each input is correctly detected by the firmware and returns expected values.
+19) Confirm battery-powered operation, charging functionality (if implemented), and overall device stability before final use.
+
+Congrats! I hope someone can actually enjoy this and build it for themselves!
+
+
+# CREDITS:
+- ONSHAPE (for CAD)
+- KiCAD (all hardware / PCB stuff)
+- Fallout
+
+# PIXEL ART AND ZINE CREDITS
+REFERENCES AND INSPIRATION (Pinterest!) :
+
+- https://www.pinterest.com/pin/168322104817334436/
+- https://www.pinterest.com/pin/888123989041302114/
+- https://www.pinterest.com/pin/114560384269168373/
+- https://www.pinterest.com/pin/888123989035366728/
+- https://www.pinterest.com/pin/888123989035906915/
+- https://pin.it/148EMhVAn
+- https://share.google/kxDoDrVdniUi0Naia
+- https://pin.it/6CnxexgHx
+
 
 
 
