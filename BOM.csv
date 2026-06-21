@@ -1,0 +1,11 @@
+Name,Qty,Unit,Price (USD),Total (USD),MOQ,MOQ Price,Source
+Seeed Studio XIAO ESP32 C3,1,pcs,8.49,8.49,1,8.49,https://www.aliexpress.us/item/3256808047100037.html
+1.8 inch TFT LCD 128x160,1,pcs,7.13,7.13,1,7.13,https://jlcpcb.com/partdetail/HS-HS280S010B/C2939938
+Piezo Buzzer,1,pcs,0.50,0.50,10,5.02,https://www.aliexpress.us/item/3256810135642750.html
+Tactile Buttons,3,pcs,0.23,0.68,10,2.25,https://www.aliexpress.us/item/3256807067168626.html
+M3 5mm Screws,5,pcs,0.04,0.19,50,1.92,https://www.aliexpress.us/item/2251832785290389.html
+M3 10mm Screws,3,pcs,0.05,0.14,50,2.34,https://www.aliexpress.us/item/2251832785290389.html
+Battery,1,pcs,5.16,5.16,1,5.16,https://www.aliexpress.us/item/3256808658204287.html
+PCB,1,pcs,0.40,0.40,5,2.00,https://jlcpcb.com
+PLA 3D Printed Case,1,pcs,-,-,-,-,
+Total,17,-,-,22.69,-,34.31,-
