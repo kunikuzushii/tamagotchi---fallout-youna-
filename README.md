@@ -55,6 +55,11 @@ Render images (in the zine):
 
 PCB:
 
+
+<img width="1079" height="600" alt="image" src="https://github.com/user-attachments/assets/0fa80ed7-d802-41d8-9884-88f5ad7d7758" />
+
+
+
 ______
 # Bill of Materials
 | Name | Qty | Unit | Price (USD) | Total (USD) | MOQ | MOQ Price | Source |
