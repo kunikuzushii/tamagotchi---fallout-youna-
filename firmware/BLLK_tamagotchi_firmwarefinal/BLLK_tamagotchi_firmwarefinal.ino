@@ -1,3 +1,6 @@
+//kudos to Mrs. Qiu from the bronx high school of science (AP CSA teacher) for teaching me how to do this 
+//best assignment she gave us <3
+
 #include <SPI.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_ST7735.h>
