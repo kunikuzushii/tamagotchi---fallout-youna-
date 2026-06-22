@@ -64,7 +64,7 @@ PCB:
 <img width="1229" height="763" alt="image" src="https://github.com/user-attachments/assets/aed860b9-5d15-4c81-8f0c-69083dd2585f" />
 
 
-Sneak peak of my pixel art!:
+Sneak peek of my pixel art!:
 
 <img width="969" height="790" alt="image" src="https://github.com/user-attachments/assets/dca456a5-abc3-48f4-8869-5642c6115d39" />
 
