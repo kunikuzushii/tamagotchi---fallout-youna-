@@ -133,7 +133,7 @@ Congrats! I hope someone can actually enjoy this and build it for themselves!
 
 LIBRARIES CREDITS
 ## Dependencies
-This project requires the following Arduino libraries to be installed via the Library Manager:
+You need these libraries (add to Arduino libraries managers)
 * **Adafruit GFX Library** (by Adafruit)
 * **Adafruit ST7735 and ST7789 Library** (by Adafruit)
 * **SPI** (Built-in to Arduino IDE)
