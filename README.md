@@ -104,24 +104,24 @@ ___
 # Assembly Directions
 ____
 1) Solder the Seeed Studio XIAO ESP32-C3, OLED display header connections, joystick module header connections, tact switches, battery connector, and all remaining through-hole and surface-mount components onto the PCB according to the schematic and PCB layout.
-2) Inspect all solder joints for bridges, cold joints, or incomplete connections, then verify continuity on the power and ground nets using a multimeter.
-3) Press-fit the custom button caps onto the tact switch actuators, ensuring each cap moves freely and returns to its neutral position without binding against the case.
-4) Mount the joystick module to the PCB using 2× M2 × 5 mm screws, M2 standoffs, and M2 hex nuts, making sure the joystick remains centered and perpendicular to the PCB.
-5) Route the battery leads through the designated cable path and place the lithium-polymer battery into the battery compartment located beneath the main PCB cavity in the bottom case.
-6) Solder or connect the battery leads to the PCB battery connector, verifying correct polarity before powering the device.
-7) Align the completed PCB assembly with the mounting posts inside the bottom case and carefully lower it into position, ensuring no wires become pinched between the PCB and enclosure.
-8) Secure the PCB to the bottom case using 3× M3 mounting screws, tightening them evenly to avoid stressing the board.
-9) Verify that the joystick stem and button caps properly align with their corresponding openings in the enclosure and move without obstruction.
-10) Position the top case onto the bottom case, making sure all internal components remain seated correctly and all case edges are fully aligned.
+2) Check for incomplete connections.
+3) Press the buttons down until they fit. 
+4) Mount the joystick module to the PCB using 2× M2 × 5 mm screws, M2 standoffs, and M2 hex nuts. Make sure the joystick remains centered and perpendicular to the PCB.
+5) Route the battery leads to cable path and place the lipo battery into the battery compartment right below the pcb or just look under.
+6) Solder/connect the battery to the PCB battery connector. Check for polarity!
+7) Align PCB assembly with the mounting posts inside the bottom case and SLOWLY put it into place. 
+8) Secure the PCB to the bottom case using 3× M3 mounting screws, tightening them evenly. Please focus on tightening them properly before it just falls out. (haha, falls out like. fallout. haha)
+9) Verify that it aligns again. This is super important!
+10) Position the top case onto the bottom case.
 11) Fasten the enclosure halves together using the specified M1.6 screws, tightening each screw gradually in an alternating pattern to ensure even clamping.
-12) Install the required software libraries and board packages in the Arduino IDE, including the ESP32 board support package and any display or input libraries used by the firmware.
+12) Install all the software libraries in Arduino.
 13) Connect the XIAO ESP32-C3 to a computer using a USB-C cable and select the correct board and COM port within the Arduino IDE.
-14) Compile the firmware and resolve any compilation errors before proceeding with upload.
-15) Upload the firmware to the ESP32-C3 and confirm that the upload process completes successfully.
-16) Disconnect and reconnect power to verify that the device boots correctly without requiring a USB connection.
-17) Test the OLED display by confirming that graphics, menus, and text render correctly with no missing pixels or display artifacts.
-18) Test all button inputs and joystick directions, verifying that each input is correctly detected by the firmware and returns expected values.
-19) Confirm battery-powered operation, charging functionality (if implemented), and overall device stability before final use.
+14) Compile firmware! Check everything including error messages (shouldn't be any).
+15) Upload the firmware to the ESP32-C3, make sure you get the completion message.
+16) Turn it on or off to check if it connects properly especially without USB connection.
+17) Test the OLED if it renders everything properly.
+18) Test all button inputs, you can manipulate the button functions off the firmware if you really want to.
+19) Confirm everything else: charging, functioning, missing pixels, etc.
 
 Congrats! I hope someone can actually enjoy this and build it for themselves!
 
