@@ -76,17 +76,18 @@ Seeed Studio XIAO ESP32 C3,1,pcs,8.49,8.49,1,8.49,https://www.aliexpress.us/item
 1.77 inch TFT LCD 128x160 (HS180S10B),1,pcs,3.16,3.16,1,3.16,https://www.lcsc.com/product-detail/C5329585.html
 Piezo Buzzer (1207-P6.5mm),1,pcs,0.50,0.50,10,5.02,https://www.aliexpress.us/item/3256810135642750.html
 Tactile Buttons,3,pcs,0.23,0.69,10,2.25,https://www.aliexpress.us/item/3256807067168626.html
-Photoresistor / LDR (LDR03),1,pcs,0.10,0.10,10,1.00,https://www.lcsc.com/product-detail/C11305.html
-18k Ohm Resistor (R1),1,pcs,0.02,0.02,50,1.00,https://www.lcsc.com
+Photoresistor / LDR (LDR03),1,pcs,0.10,0.10,10,1.00,https://www.aliexpress.com
+10k Ohm Resistor (R1),1,pcs,0.02,0.02,50,1.00,https://www.lcsc.com
 Battery (BT1),1,pcs,5.16,5.16,1,5.16,https://www.aliexpress.us/item/3256808658204287.html
 Battery Holder / Clip,1,pcs,0.30,0.30,5,1.50,https://www.aliexpress.com
-2.54mm Pin Headers (CN1 CN2),2,pack,1.50,1.50,1,1.50,https://www.lcsc.com
-M2 5mm Screws (PCB mounting),4,pcs,0.04,0.16,50,1.92,https://www.aliexpress.us/item/2251832785290389.html
-M3 10mm Screws (case),5,pcs,0.05,0.25,50,2.34,https://www.aliexpress.us/item/2251832785290389.html
+2.54mm Pin Headers,1,pack,1.50,1.50,1,1.50,https://www.lcsc.com
+M3 5mm Screws,5,pcs,0.04,0.20,50,1.92,https://www.aliexpress.us/item/2251832785290389.html
+M3 10mm Screws,3,pcs,0.05,0.15,50,2.34,https://www.aliexpress.us/item/2251832785290389.html
 M3 Threaded Standoffs,4,pcs,0.12,0.48,10,1.20,https://www.aliexpress.com
 Custom PCB,1,pcs,0.40,0.40,5,2.00,https://jlcpcb.com
 PLA 3D Printed Case,1,pcs,-,-,-,-,Self-Print / Local
-Total,26,-,-,21.21,-,36.54,-
+Total,25,-,-,21.15,-,36.54,-
+
 
 ____
 # BUILD & ASSEMBLY
