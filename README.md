@@ -111,10 +111,9 @@ ___
 
 # Assembly Directions
 ____
-1) Solder the Seeed Studio XIAO ESP32-C3, OLED display header connections, joystick module header connections, tact switches, battery connector, and all remaining through-hole and surface-mount components onto the PCB according to the schematic and PCB layout.
+1) Solder the Seeed Studio XIAO ESP32-C3, OLED display header connections, tact switches, battery connector, and all remaining through-hole and surface-mount components onto the PCB FOLLOWING the schematic/layout
 2) Check for incomplete connections.
 3) Press the buttons down until they fit. 
-4) Mount the joystick module to the PCB using 2× M2 × 5 mm screws, M2 standoffs, and M2 hex nuts. Make sure the joystick remains centered and perpendicular to the PCB.
 5) Route the battery leads to cable path and place the lipo battery into the battery compartment right below the pcb or just look under.
 6) Solder/connect the battery to the PCB battery connector. Check for polarity!
 7) Align PCB assembly with the mounting posts inside the bottom case and SLOWLY put it into place. 
@@ -125,9 +124,10 @@ ____
 12) Install all the software libraries in Arduino.
 13) Connect the XIAO ESP32-C3 to a computer using a USB-C cable and select the correct board and COM port within the Arduino IDE.
 14) Compile firmware! Check everything including error messages (shouldn't be any).
+bonus - since my sprites are in a separate file due to the upgraded OLED, you can easily change up the sprites to whatever you want as long as you edit the kaiser_sprites.h properly
 15) Upload the firmware to the ESP32-C3, make sure you get the completion message.
 16) Turn it on or off to check if it connects properly especially without USB connection.
-17) Test the OLED if it renders everything properly.
+17) Test the OLED if it renders my beautiful pixel art properly + status bar. 
 18) Test all button inputs, you can manipulate the button functions off the firmware if you really want to.
 19) Confirm everything else: charging, functioning, missing pixels, etc.
 
