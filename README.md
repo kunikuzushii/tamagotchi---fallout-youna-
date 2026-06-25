@@ -8,10 +8,12 @@ https://cad.onshape.com/documents/d6c669abeeb3d7413e8d21f8/w/bde522f027b95c0c698
 
 _________
 
-<img width="475" height="643" alt="image" src="https://github.com/user-attachments/assets/bdf3d62d-2b24-4d97-8334-f2dc477e2e66" />
+
+<img width="1728" height="2304" alt="Kaiser Pet" src="https://github.com/user-attachments/assets/feaabed4-b52d-4f44-b210-d600d948884d" />
 
 
 # What is a Kaiser Pet? 
+
 
 My custom themed tamagotchi has:
 - RBG Screen
