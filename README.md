@@ -78,7 +78,7 @@ Sneak peek of my pixel art!:
 ______
 ## Bill of Materials
 
-**Total Cost: $30.03**
+**Total Cost: $34.33**
 
 | Name | Qty | Unit | Price (USD) | Total (USD) | MOQ | MOQ Price | Source |
 | :--- | :---: | :---: | ---: | ---: | :---: | ---: | :--- |
@@ -95,7 +95,7 @@ ______
 | M3 x 10mm Socket Cap Head Screws | 3 | pcs | $0.47 | $1.88 | 4 | $1.88 | [Order](https://accu-components.com/us/metric-cap-head-screws/16004-SSCF-M3-10-12-9) |
 | M3 x 5mm Socket Cap Head Screws | 5 | pcs | $0.31 | $1.86 | 6 | $1.86 | [Order](https://accu-components.com/us/metric-cap-head-screws/16001-SSCF-M3-5-12-9) |
 | TS-107-T-AA Connector | 2 | pcs | $1.28 | $2.56 | 1 | $1.28 | [Order](https://www.digikey.com/en/products/detail/samtec-inc/TS-107-T-AA/10218878) |
-
+| TS-110-T-A Connector | 2 | pcs | $ 2.15 | $4.30 | 1 | $2.15 | [Order](https://www.digikey.com/en/products/detail/samtec-inc/TS-110-T-A/1105484) |
 Total Cost (USD) is the REAL price required before shipping fees
 ____
 
