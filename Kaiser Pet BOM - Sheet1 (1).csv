@@ -1,0 +1,19 @@
+KAISER PET BILL OF MATERIALS,,,,,,,
+ Total Cost ,,,,,,,
+ $ 34.33 ,,,,,,,
+,,,,,,,
+Name,Qty,Unit, Price (USD) ,Total (USD),MOQ,MOQ Price,Source
+XIAO ESP32C3,1,pcs, $ 4.99 ,$4.99,1,$4.99,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+XHXDZ 1207-P6.5MM Buzzer,1,pcs, $ 0.50 ,$5.03,10,$5.03,https://www.aliexpress.us/item/3256810135642750.html
+HS180S10B Screen,1,pcs, $ 3.21 ,$3.21,1,$3.21,https://www.lcsc.com/product-detail/C5329585.html
+RC0805FR-0710KL Resistor,1,pcs, $ 0.10 ,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535
+GL12528 LDR,1,pcs, $ 0.31 ,$1.56,5,$1.56,https://www.lcsc.com/product-detail/C559386.html
+M20-9990246 Connector,1,pcs, $ 0.10 ,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/harwin-inc/M20-9990246/3728226
+TSC016A04518A Tactile Switch,3,pcs, $ 0.01 ,$0.54,50,$0.54,https://www.lcsc.com/product-detail/C2888493.html
+Battery,1,pcs, $ 6.20 ,$6.20,1,$6.20,https://www.aliexpress.us/item/3256808658204287.html
+PCB,1,pcs, $ 0.40 ,$2.00,5,$2.00,https://jlcpcb.com
+PLA Housing,1,pcs, - ,-,-,-,Self-Print / Local
+M3 x 10mm Socket Cap Head Screws,3,pcs, $ 0.47 ,$1.88,4,$1.88,https://accu-components.com/us/metric-cap-head-screws/16004-SSCF-M3-10-12-9
+M3 x 5mm Socket Cap Head Screws,5,pcs, $ 0.31 ,$1.86,6,$1.86,https://accu-components.com/us/metric-cap-head-screws/16001-SSCF-M3-5-12-9
+TS-110-T-A Connector,2,pcs, $ 2.15 ,$4.30,1,$2.15,https://www.digikey.com/en/products/detail/samtec-inc/TS-110-T-A/1105484
+TS-107-T-AA Connector,2,pcs, $ 1.28 ,$2.56,1,$1.28,https://www.digikey.com/en/products/detail/samtec-inc/TS-107-T-AA/10218878
